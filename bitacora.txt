@@ -22,5 +22,8 @@ P13. add . + commit -m "Paso 13"
 P14. merge Antecedentes --no-ff
 P15. merge DatosPersonales          no es necesario forzar recursividad
 P16. add . + commit -m "Paso 16"
+P17. tag FusionTerminada
+P18. git push origin master
+P19. add . + commit -m "Paso 19"
 
 
