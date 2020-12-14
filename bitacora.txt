@@ -11,4 +11,7 @@ P2.  checkout -b DatosPersonales
 P3.  ---
 P4.  ---
 P5. add . + commit -m "Paso 5"
-P6.
+P6. 
+P7. checkout -b Antecedentes
+P8.  ---
+P9  add . + commit -m "Paso 9"
