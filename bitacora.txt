@@ -6,12 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-<<<<<<< HEAD
-P11  add . + commit -m "Paso 11"
-P12a  merge DatosPersonales      fast-forward
-P12b  merge Antecedentes  	    necesariamente recursiva
-P13. add . + commit -m "Paso 13"
-=======
 P1.  clone https://github.com/latacita/testGit2020svm888.git
 P2.  checkout -b DatosPersonales
 P3.  ---
@@ -21,4 +15,12 @@ P6.
 P7. checkout -b Antecedentes
 P8.  ---
 P9  add . + commit -m "Paso 9"
->>>>>>> Antecedentes
+P11  add . + commit -m "Paso 11"
+P12a  merge DatosPersonales         fast-forward
+P12b  merge Antecedentes  	    necesariamente recursiva
+P13. add . + commit -m "Paso 13"
+P14. merge Antecedentes --no-ff
+P15. merge DatosPersonales          no es necesario forzar recursividad
+P16. add . + commit -m "Paso 16"
+
+
