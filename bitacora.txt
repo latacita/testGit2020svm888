@@ -1,4 +1,4 @@
-%%==================================================================%%
+﻿%%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
 %% Alumno (Apellidos, Nombre):                                      %%
@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+P11  add . + commit -m "Paso 11"
+P12a  merge DatosPersonales      fast-forward
+P12b  merge Antecedentes  	    necesariamente recursiva
+P13. add . + commit -m "Paso 13"
